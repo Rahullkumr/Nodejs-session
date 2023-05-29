@@ -1,4 +1,6 @@
-# Day1: node-session
+# Node.js Session by Audumbar Kabade sir
+
+## Day1: node-session
 
 node -v <br>
 npm -v <br>
@@ -86,3 +88,4 @@ hw
 
 9595986033
 Audumbar Kabade (best teacher)
+<img src="dynamic_hr.gif">
