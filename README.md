@@ -18,7 +18,7 @@ Go inside the Demo1 folder and type "code .", it'll open Project in VSCode
 
 npm install(installs packages)
 
-SET DEBUG=demo1:*
+set DEBUG=demo1:*
 
 npm start
 ==> project starts running in localhost:3000
