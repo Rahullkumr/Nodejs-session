@@ -89,3 +89,20 @@ hw
 9595986033
 Audumbar Kabade (best teacher)
 <img src="dynamic_hr.gif">
+
+# Day 2
+
+steps to create project
+1. go to D drive, open cmd
+
+```
+express --no-view project
+cd project
+npm i
+set DEBUG=project:*
+```
+
+
+express validator
+
+install bcrypt for encrypting password
