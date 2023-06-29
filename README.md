@@ -30,7 +30,8 @@ morgan ==> is the logger
  npm install nodemon
  
  npm start
- 
+
+ ```
  go to package.json file and change the following line
 {
   "name": "demo1",
@@ -39,9 +40,9 @@ morgan ==> is the logger
   "scripts": {
     "start": "node ./bin/www"
   },
-
+```
 change to 
-
+```
 {
   "name": "demo1",
   "version": "0.0.0",
@@ -49,15 +50,17 @@ change to
   "scripts": {
     "start": "nodemon ./bin/www"
   },
-
+```
 goto app.js and comment the line
-//app.use(express.static(path.join(__dirname, 'public')));
+```//app.use(express.static(path.join(__dirname, 'public')));```
 
+```
 goto routes/index.js and change to
 router.get('/', function(req, res, next) {
   res.send({ title: 'Express' });
 });
-
+```
+<br>
 
 ==> vvvvvi, this will write everything on the html page, every code written
 
