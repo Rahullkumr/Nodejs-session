@@ -111,6 +111,6 @@ install bcrypt for encrypting passwords
 
 Sequelize: is a Node. js-based Object Relational Mapper that makes it easy to work with MySQL, MariaDB, SQLite, PostgreSQL databases, and more. An Object Relational Mapper performs functions like handling database records by representing the data as objects.
 
-Multar: is a node. js middleware for handling multipart/form-data , which is primarily used for uploading files.
+Multar: is a node middleware for handling multipart/form-data , which is primarily used for uploading files.
 
 Nodemailer: for sending emails
